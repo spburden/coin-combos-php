@@ -1,12 +1,12 @@
-# _{Application Name}_
+# _Coin App_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Change machine, 8-13-16_
 
-#### By _**Martin Cartledge**_
+#### By _**Martin Cartledge &amp; Stephen Burden**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_A change machine that returns the least amount of coins possible._
 
 ## Specifications
 
@@ -56,4 +56,4 @@ Twig_
 
 *This webpage is licensed under the MIT license.*
 
-Copyright (c) 2016 **_Martin Cartledge_**
+Copyright (c) 2016 **_Martin Cartledge &amp; Stephen Burden_**
